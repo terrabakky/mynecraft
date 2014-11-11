@@ -1,0 +1,16 @@
+{
+  "name": "mygamename",
+  "version": "0.0.1",
+  "dependencies": {
+    "keypress": "^0.2.1",
+    "voxel": "^0.4.0",
+    "voxel-audio": "^0.1.0",
+    "voxel-clouds": "^0.2.0",
+    "voxel-critter": "^1.0.0",
+    "voxel-debris": "0.0.4",
+    "voxel-engine": "~0.9.0",
+    "voxel-keys": "^0.5.0",
+    "voxel-plugins": "^0.3.2",
+    "voxel-sfx": "^0.2.0"
+  }
+}
